@@ -1,0 +1,9 @@
+This is the instructions file
+
+Wake up
+Work
+Eat
+work
+Eat
+Sleep
+Repeat
